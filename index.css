@@ -5,5 +5,8 @@
 }
 header:first-child{
 	font-family: cursive;
+} 
+body{
+        background-color: purple;
 }
 
